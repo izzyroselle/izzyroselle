@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a PhD student in the CRT Genomics Data Science program. Apart from that, I like to make music and write :)
